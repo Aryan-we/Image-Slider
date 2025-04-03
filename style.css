@@ -40,3 +40,9 @@ button{
 button:hover{
     background-color: #111;
 }
+@media (max-widtgh: 900px){
+    .slider img{
+        width:100%;
+        height: 80vh;
+    }
+}
