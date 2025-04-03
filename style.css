@@ -46,4 +46,10 @@ button:hover{
         width:100%;
         height: 80vh;
     }
+    .slider{
+    margin: 50px auto;
+    width: 70%;
+    text-align: center;
+    
+}
 }
