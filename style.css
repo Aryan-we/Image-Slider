@@ -50,6 +50,15 @@ button:hover{
     margin: 50px auto;
     width: 90%;
     text-align: center;
-    
+}
+    .btn1{
+    position: absolute;
+    top: 30%;
+    left: 28%;
+}
+.btn2{
+    position: absolute;
+    top: 45%;
+    left: 73%;
 }
 }
