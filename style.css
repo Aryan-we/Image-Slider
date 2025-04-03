@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.slider{
+    margin: 50px auto;
+    width: 50%;
+    text-align: center;
+    
+}
+body{
+    background-image: url("./animation.gif");
+    background-size: cover;
+}
+.slider img{
+    width:80%;
+    height: 80vh;
+}
+button{
+    border: none;
+    outline: none;
+    background-color: #888;
+    color: #ddd;
+    cursor: pointer;
+    padding: 10px 30px;
+    border-radius: 50%;
+   
+}
+.btn1{
+    position: absolute;
+    top: 45%;
+    left: 28%;
+}
+.btn2{
+    position: absolute;
+    top: 45%;
+    left: 68%;
+}
+button:hover{
+    background-color: #111;
+}
